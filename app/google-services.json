@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "943751260922",
+    "firebase_url": "https://loginemail-27082.firebaseio.com",
+    "project_id": "loginemail-27082",
+    "storage_bucket": "loginemail-27082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943751260922:android:b6294a9759ca7da6",
+        "android_client_info": {
+          "package_name": "com.jefer_teste_01.loginemail.loginemail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943751260922-4bbqvo8k3b9rncmhsu4usppc0bi8d7q1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jefer_teste_01.loginemail.loginemail",
+            "certificate_hash": "2b726241d109fec0a559b1b54190af8bfdb965ac"
+          }
+        },
+        {
+          "client_id": "943751260922-dp0d7n24d0en3o6htp4ictpaagri44pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2WKeLiVUOq2aI10SBZAVO3dWXi7MMJzI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943751260922-dp0d7n24d0en3o6htp4ictpaagri44pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

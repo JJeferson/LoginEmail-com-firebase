@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginEmail</string>
+    <string name="title_activity_pos__login">Pos_Login</string>
+</resources>
